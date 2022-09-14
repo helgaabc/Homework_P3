@@ -1,0 +1,15 @@
+/Users/elena/Documents/Homework_P3/Task 19/bin/Debug/net6.0/Task 19
+/Users/elena/Documents/Homework_P3/Task 19/bin/Debug/net6.0/Task 19.deps.json
+/Users/elena/Documents/Homework_P3/Task 19/bin/Debug/net6.0/Task 19.runtimeconfig.json
+/Users/elena/Documents/Homework_P3/Task 19/bin/Debug/net6.0/Task 19.dll
+/Users/elena/Documents/Homework_P3/Task 19/bin/Debug/net6.0/Task 19.pdb
+/Users/elena/Documents/Homework_P3/Task 19/obj/Debug/net6.0/Task 19.csproj.AssemblyReference.cache
+/Users/elena/Documents/Homework_P3/Task 19/obj/Debug/net6.0/Task 19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Documents/Homework_P3/Task 19/obj/Debug/net6.0/Task 19.AssemblyInfoInputs.cache
+/Users/elena/Documents/Homework_P3/Task 19/obj/Debug/net6.0/Task 19.AssemblyInfo.cs
+/Users/elena/Documents/Homework_P3/Task 19/obj/Debug/net6.0/Task 19.csproj.CoreCompileInputs.cache
+/Users/elena/Documents/Homework_P3/Task 19/obj/Debug/net6.0/Task 19.dll
+/Users/elena/Documents/Homework_P3/Task 19/obj/Debug/net6.0/refint/Task 19.dll
+/Users/elena/Documents/Homework_P3/Task 19/obj/Debug/net6.0/Task 19.pdb
+/Users/elena/Documents/Homework_P3/Task 19/obj/Debug/net6.0/Task 19.genruntimeconfig.cache
+/Users/elena/Documents/Homework_P3/Task 19/obj/Debug/net6.0/ref/Task 19.dll
